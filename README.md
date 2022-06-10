@@ -43,6 +43,11 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/XyB9T6x/Picture1.png" alt="Picture1" border="0" /></a>
 
+This is an application that hosts images in a grid layout for the user to peruse through. The application is endless scroll - new photos will be generated whenever the user hits the bottom of the page.
+The application works with the Unsplash API to fetch photos.
+The user can also search for specific keywords (e.g. "dog") to find photos of that topic.
+Have fun - the photos are really interesting and great to look at!
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
